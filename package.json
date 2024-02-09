@@ -10,7 +10,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "antd": "^5.13.3",
+    "@mantine/core": "^7.5.1",
+    "@mantine/hooks": "^7.5.1",
     "localforage": "^1.10.0",
     "match-sorter": "^6.3.3",
     "react": "^18.2.0",
